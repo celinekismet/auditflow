@@ -1,0 +1,21 @@
+#DEPENDENCIES
+node_modules/
+
+#Env files
+.env
+.env.local
+.env.*.local
+
+#Build Outputs
+dist/
+build/
+
+#Logs
+*.Logs
+
+# OS
+.DS_Store
+Thumbs.db
+
+#VSCode
+.vscode/settings.json
